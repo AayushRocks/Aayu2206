@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
+- 🌱 I’m currently learning **Web Development and Machine Learning**
 
 - 💬 Ask me about **Arduino & Cloud computing**
 
