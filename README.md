@@ -8,11 +8,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayu2206&label=Profile%20views&color=0e75b6&style=flat" alt="Aayu2206" /> </p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/92023704/136300843-3f7d0827-c529-4159-aa14-8918240b7df4.jpeg">
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on enhancing my skills.
 
-- 🌱 I’m currently learning **Web Development and Machine Learning**
+- 🌱 I’m currently learning **Problem Solving and Web Development**
 
-- 💬 Ask me about **Arduino & Cloud computing**
+- 💬 Ask me about **Python and Arduino**
 
 - 📫 How to reach me **aayushreigns@gmail.com**
 
