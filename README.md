@@ -1,17 +1,11 @@
 ![MasterHead](https://user-images.githubusercontent.com/92023704/136302145-29e48457-fcdc-4b3e-ae46-1fbac1fd1d6e.jpeg)
 
 
-
 <h1 align="center">Hi 👋, I'm Aayush Saini</h1>
 <h3 align="center">Electrical & Electronics Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayu2206&label=Profile%20views&color=0e75b6&style=flat" alt="Aayu2206" /> </p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/92023704/136300843-3f7d0827-c529-4159-aa14-8918240b7df4.jpeg">
-
-<h1 align="center">Hi 👋, I'm Aayush Saini</h1>
-<h3 align="center">Electrical & Electronics Engineer</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayu2206" alt="aayu2206" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development**
 
@@ -21,7 +15,6 @@
 
 - 📫 How to reach me **aayushreigns@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
